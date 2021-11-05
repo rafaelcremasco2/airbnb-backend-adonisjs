@@ -1,0 +1,10 @@
+{
+  "name": "ideia",
+  "version": "1.0.0",
+  "description": "projeto de teste",
+  "main": "index.js",
+  "repository": "https://github.com/rafaelcremasco2/ideia.git",
+  "author": "Rafael Cremasco Lacerda <rafaelcremasco@hotmail.com>",
+  "license": "privada",
+  "private": true
+}

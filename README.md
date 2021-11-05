@@ -1,2 +1,2 @@
 # ideia
-Repositório criação de novos projetos
+Repositório privado para criação de novos projetos
