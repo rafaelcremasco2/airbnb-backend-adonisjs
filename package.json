@@ -1,7 +1,7 @@
 {
-  "name": "ideia",
+  "name": "airbnb-backend-adonisjs",
   "version": "1.0.0",
-  "description": "projeto de teste",
+  "description": "API ",
   "main": "index.js",
   "repository": "https://github.com/rafaelcremasco2/airbnb-backend-adonisjs.git",
   "author": "Rafael Cremasco Lacerda <rafaelcremasco@hotmail.com>",
