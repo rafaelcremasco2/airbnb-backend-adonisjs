@@ -1,2 +1,2 @@
 # ideia
-Repositório privado para criação de novos projetos
+Projeto de API em NodeJs e AdonisJS para implementação de sistema similar ao da AirBnB.
